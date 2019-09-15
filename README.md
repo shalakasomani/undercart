@@ -3,6 +3,8 @@
 2. Creating our first component, homepage and adding scss to help us with writing our styles
 3. Going through our folder structure for the project, breaking out homepage component into smaller components
 4. Adding routing with react-router, then creating new routes for our existing homepage and our new hats page
+5. Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
+6. Create collection-preview and collection-item components for the shop page
 
 # Install dependencies
 
