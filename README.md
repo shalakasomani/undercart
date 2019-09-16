@@ -7,6 +7,9 @@
 6. Create collection-preview and collection-item components for the shop page
 7. Creating header component to demonstrate where react-router renders our content on the page using component
 8. Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
+9. Creating our firebase database and adding the firebase library into our code. Add google sign in and authentication into our application.
+
+
 
 
 # Install dependencies
