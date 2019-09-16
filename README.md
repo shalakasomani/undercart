@@ -5,6 +5,9 @@
 4. Adding routing with react-router, then creating new routes for our existing homepage and our new hats page
 5. Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
 6. Create collection-preview and collection-item components for the shop page
+7. Creating header component to demonstrate where react-router renders our content on the page using component
+8. Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
+
 
 # Install dependencies
 
